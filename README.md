@@ -180,39 +180,31 @@ Categorical features were encoded and numerical features were standardized as pa
 
 ## Sales Feature Distribution
 
-
-
----
-
-## Optimal Number of Clusters
-
-Silhouette Scores were calculated for different values of K to determine the most suitable number of clusters.
-
-
+![Sales Feature Distribution](images/sales_distribution.png)
 
 ---
 
-## Cluster Distribution
+## Silhouette Score
 
-
+![Silhouette Score](images/silhouette_score.png)
 
 ---
 
 ## PCA Cluster Visualization
 
-Principal Component Analysis was used to reduce the processed feature space to two dimensions for visualization.
-
-The first two principal components explained:
-
-**85.49% of the total variance**
-
-
+![PCA Cluster Visualization](images/pca_clusters.png)
 
 ---
 
-## Cluster Comparison
+## Cluster Distribution
 
+![Cluster Distribution](images/cluster_distribution.png)
 
+---
+
+## Average Sales by Product Cluster
+
+![Average Sales by Product Cluster](images/average_sales_by_cluster.png)
 
 ---
 
