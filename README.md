@@ -395,14 +395,14 @@ Run all cells sequentially to reproduce the complete product clustering analysis
 
 # 🔮 Future Improvements
 
-Deploy the clustering model using Streamlit
-Build an interactive product segmentation dashboard
-Experiment with DBSCAN and Agglomerative Clustering
-Compare multiple clustering algorithms
-Incorporate additional product and customer-level features
-Develop automated inventory recommendations based on cluster membership
-Monitor product clusters as new sales data becomes available
-Integrate clustering results into an inventory management system
+- Deploy the clustering model using Streamlit
+- Build an interactive product segmentation dashboard
+- Experiment with DBSCAN and Agglomerative Clustering
+- Compare multiple clustering algorithms
+- Incorporate additional product and customer-level features
+- Develop automated inventory recommendations based on cluster membership
+- Monitor product clusters as new sales data becomes available
+- Integrate clustering results into an inventory management system
 
 ---
 
@@ -412,13 +412,13 @@ Product clustering can help businesses understand their product portfolio and ma
 
 Potential applications include:
 
-Inventory Management
-Stock Replenishment
-Purchasing Optimization
-Product Portfolio Management
-Sales Planning
-Inventory Prioritization
-Product Performance Analysis
+- Inventory Management
+- Stock Replenishment
+- Purchasing Optimization
+- Product Portfolio Management
+- Sales Planning
+- Inventory Prioritization
+- Product Performance Analysis
 
 ---
 
