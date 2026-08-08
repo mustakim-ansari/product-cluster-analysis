@@ -396,7 +396,7 @@ product-cluster-analysis/
 
 ---
 
-🚀 How to Run
+# 🚀 How to Run
 
 Clone the repository:
 
@@ -422,7 +422,7 @@ Run all cells sequentially to reproduce the analysis.
 
 ---
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 Deploy the clustering solution using Streamlit.
 Build an interactive product segmentation dashboard.
 Incorporate additional product and customer-level features.
@@ -434,13 +434,15 @@ Integrate the clustering results into an inventory management system.
 
 ---
 
-🌐 Project Repository
+# 🌐 Project Repository
 
 🔗 GitHub:
 
 https://github.com/mustakim-ansari/product-cluster-analysis
 
-👨‍💻 Author
+---
+
+# 👨‍💻 Author
 
 Mustakim Ansari
 
