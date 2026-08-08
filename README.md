@@ -184,19 +184,19 @@ Categorical features were encoded and numerical features were standardized as pa
 
 ---
 
-## Silhouette Score
+## Silhouette Score for Different K Values
 
 ![Silhouette Score](images/silhouette_score.png)
 
 ---
 
-## PCA Cluster Visualization
+## Product Clusters using K-Means
 
 ![PCA Cluster Visualization](images/pca_clusters.png)
 
 ---
 
-## Cluster Distribution
+## Number of Products in Each Cluster
 
 ![Cluster Distribution](images/cluster_distribution.png)
 
