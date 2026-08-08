@@ -374,6 +374,8 @@ product-cluster-analysis/
 ---
 
 # 🚀 How to Run
+
+```bash
 git clone https://github.com/mustakim-ansari/product-cluster-analysis.git
 
 cd product-cluster-analysis
