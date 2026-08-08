@@ -372,7 +372,7 @@ product-cluster-analysis/
 │
 └── data/
 ---
-
+```
 # 🚀 How to Run
 
 ```bash
@@ -383,3 +383,57 @@ cd product-cluster-analysis
 pip install -r requirements.txt
 
 jupyter notebook
+
+Run:
+
+Product_Cluster_Analysis.ipynb
+
+Run all cells sequentially to reproduce the complete product clustering analysis.
+
+---
+```
+
+# 🔮 Future Improvements
+
+Deploy the clustering model using Streamlit
+Build an interactive product segmentation dashboard
+Experiment with DBSCAN and Agglomerative Clustering
+Compare multiple clustering algorithms
+Incorporate additional product and customer-level features
+Develop automated inventory recommendations based on cluster membership
+Monitor product clusters as new sales data becomes available
+Integrate clustering results into an inventory management system
+
+---
+
+# 💼 Business Impact
+
+Product clustering can help businesses understand their product portfolio and make data-driven operational decisions.
+
+Potential applications include:
+
+Inventory Management
+Stock Replenishment
+Purchasing Optimization
+Product Portfolio Management
+Sales Planning
+Inventory Prioritization
+Product Performance Analysis
+
+---
+
+# 👨‍💻 Author
+
+Mustakim Ansari
+
+📧 ansarimustakim278@gmail.com
+
+🔗 LinkedIn:
+
+https://www.linkedin.com/in/mustakim-ansari-b60846343/
+
+🔗 GitHub:
+
+https://github.com/mustakim-ansari
+
+⭐ If you found this project useful, consider giving the repository a star.
